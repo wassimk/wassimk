@@ -22,6 +22,9 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 |---------|-------------|
 | [gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) | Open GitHub URLs for files, blame, commits, and PRs from any buffer |
 | [scalpel.nvim](https://github.com/wassimk/scalpel.nvim) | Fast find-and-replace in a buffer |
+| [cmp-rails-fixture-names](https://github.com/wassimk/cmp-rails-fixture-names) | nvim-cmp source for Rails fixture names with documentation |
+| [cmp-rails-fixture-types](https://github.com/wassimk/cmp-rails-fixture-types) | nvim-cmp source for Rails fixture types |
+| [cmp-feature-flipper](https://github.com/wassimk/cmp-feature-flipper) | nvim-cmp source for the Ruby flipper gem |
 
 #### GitHub CLI
 
