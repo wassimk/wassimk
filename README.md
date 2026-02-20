@@ -6,6 +6,8 @@ More at [wassim.io](https://wassim.io)
 
 ---
 
+Here are a few of my more fun and useful projects. [Browse my repos](https://github.com/wassimk?tab=repositories) for more.
+
 #### Elgato Lighting
 
 | Project | Description |
