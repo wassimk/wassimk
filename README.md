@@ -10,9 +10,9 @@ More at [wassim.io](https://wassim.io)
 
 | Project | Description |
 |---------|-------------|
-| [elgato-light](https://github.com/wassimk/elgato-light) | CLI for controlling Elgato lights with auto-discovery (Rust) |
-| [elgato-autolight](https://github.com/wassimk/elgato-autolight) | Automatically toggle lights when your Mac camera activates (Rust) |
-| [raycast-elgato-light](https://github.com/wassimk/raycast-elgato-light) | Raycast extension for Elgato light control (TypeScript) |
+| [elgato-light](https://github.com/wassimk/elgato-light) | CLI for controlling Elgato lights with auto-discovery |
+| [elgato-autolight](https://github.com/wassimk/elgato-autolight) | Automatically toggle lights when your Mac camera activates |
+| [raycast-elgato-light](https://github.com/wassimk/raycast-elgato-light) | Raycast extension for Elgato light control |
 
 #### Neovim Plugins
 
@@ -25,18 +25,18 @@ More at [wassim.io](https://wassim.io)
 
 | Project | Description |
 |---------|-------------|
-| [gh-compare](https://github.com/wassimk/gh-compare) | `gh` extension to open branch comparison URLs (Go) |
+| [gh-compare](https://github.com/wassimk/gh-compare) | `gh` extension to open branch comparison URLs |
 
 #### CLI Tools
 
 | Project | Description |
 |---------|-------------|
-| [granola-exporter](https://github.com/wassimk/granola-exporter) | Export Granola meeting notes and transcripts to markdown (Go) |
+| [granola-exporter](https://github.com/wassimk/granola-exporter) | Export Granola meeting notes and transcripts to markdown |
 | [tmignore](https://github.com/wassimk/tmignore) | Exclude directories from Time Machine, Carbon Copy Cloner, and Backblaze backups |
 
 #### Other
 
 | Project | Description |
 |---------|-------------|
-| [gaming-library](https://github.com/wassimk/gaming-library) | Sync your Steam library to a Notion database (Ruby) |
+| [gaming-library](https://github.com/wassimk/gaming-library) | Sync your Steam library to a Notion database |
 | [claudegotchi](https://github.com/wassimk/claudegotchi) | Tamagotchi-style Claude bot on an M5Stack Core2 IoT device |
