@@ -8,14 +8,6 @@ Software engineer at [Planning Center](https://www.planningcenter.com).
 
 Here are a few of my more fun and useful projects. [Browse my repos](https://github.com/wassimk?tab=repositories) for more.
 
-#### Elgato Lighting
-
-| Project | Description |
-|---------|-------------|
-| [elgato-light](https://github.com/wassimk/elgato-light) | CLI for controlling Elgato lights with auto-discovery |
-| [elgato-autolight](https://github.com/wassimk/elgato-autolight) | Automatically toggle lights when your Mac camera activates |
-| [raycast-elgato-light](https://github.com/wassimk/raycast-elgato-light) | Raycast extension for Elgato light control |
-
 #### Neovim Plugins
 
 | Project | Description |
@@ -33,6 +25,14 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 | [gh-compare](https://github.com/wassimk/gh-compare) | `gh` extension to open branch comparison URLs |
 | [tmignore](https://github.com/wassimk/tmignore) | Exclude directories from Time Machine, Carbon Copy Cloner, and Backblaze backups |
 | [granola-exporter](https://github.com/wassimk/granola-exporter) | Export Granola meeting notes and transcripts to markdown |
+
+#### Elgato Lighting
+
+| Project | Description |
+|---------|-------------|
+| [elgato-light](https://github.com/wassimk/elgato-light) | CLI for controlling Elgato lights with auto-discovery |
+| [elgato-autolight](https://github.com/wassimk/elgato-autolight) | Automatically toggle lights when your Mac camera activates |
+| [raycast-elgato-light](https://github.com/wassimk/raycast-elgato-light) | Raycast extension for Elgato light control |
 
 #### Other
 
