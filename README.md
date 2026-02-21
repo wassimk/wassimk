@@ -20,6 +20,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 
 | Project | Description |
 |---------|-------------|
+| [git-coauthors.nvim](https://github.com/wassimk/git-coauthors.nvim) | Completion source for Co-Authored-By git commit trailers |
 | [gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) | Open GitHub URLs for files, blame, commits, and PRs from any buffer |
 | [scalpel.nvim](https://github.com/wassimk/scalpel.nvim) | Fast find-and-replace in a buffer |
 | [cmp-rails-fixture-names](https://github.com/wassimk/cmp-rails-fixture-names) | nvim-cmp source for Rails fixture names with documentation |
