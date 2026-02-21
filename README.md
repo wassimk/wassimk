@@ -26,18 +26,13 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 | [rails-fixture-complete.nvim](https://github.com/wassimk/rails-fixture-complete.nvim) | Completion for Rails fixture types and names with documentation |
 | [flipper-complete.nvim](https://github.com/wassimk/flipper-complete.nvim) | Completion for Ruby Flipper feature flag names |
 
-#### GitHub CLI
-
-| Project | Description |
-|---------|-------------|
-| [gh-compare](https://github.com/wassimk/gh-compare) | `gh` extension to open branch comparison URLs |
-
 #### CLI Tools
 
 | Project | Description |
 |---------|-------------|
-| [granola-exporter](https://github.com/wassimk/granola-exporter) | Export Granola meeting notes and transcripts to markdown |
+| [gh-compare](https://github.com/wassimk/gh-compare) | `gh` extension to open branch comparison URLs |
 | [tmignore](https://github.com/wassimk/tmignore) | Exclude directories from Time Machine, Carbon Copy Cloner, and Backblaze backups |
+| [granola-exporter](https://github.com/wassimk/granola-exporter) | Export Granola meeting notes and transcripts to markdown |
 
 #### Other
 
