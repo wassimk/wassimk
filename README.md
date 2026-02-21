@@ -1,8 +1,6 @@
 ### Hi, I'm Wassim
 
-Software engineer at [Planning Center](https://www.planningcenter.com). I love building tools that make my workflow faster and my desk smarter.
-
-More at [wassim.io](https://wassim.io)
+I love building tools that speed up my workflow and make my desk smarter. Software engineer at [Planning Center](https://www.planningcenter.com).
 
 ---
 
