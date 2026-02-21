@@ -34,7 +34,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 | [elgato-autolight](https://github.com/wassimk/elgato-autolight) | Automatically toggle lights when your Mac camera activates |
 | [raycast-elgato-light](https://github.com/wassimk/raycast-elgato-light) | Raycast extension for Elgato light control |
 
-#### Fun
+#### Other
 
 | Project | Description |
 |---------|-------------|
