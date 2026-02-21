@@ -24,7 +24,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 | [scalpel.nvim](https://github.com/wassimk/scalpel.nvim) | Fast find-and-replace in a buffer |
 | [git-coauthors.nvim](https://github.com/wassimk/git-coauthors.nvim) | Autocomplete Co-Authored-By lines in git commits |
 | [rails-fixture-complete.nvim](https://github.com/wassimk/rails-fixture-complete.nvim) | Completion for Rails fixture types and names with documentation |
-| [flipper-complete.nvim](https://github.com/wassimk/flipper-complete.nvim) | Completion for Ruby Flipper feature flag names |
+| [flipper-complete.nvim](https://github.com/wassimk/flipper-complete.nvim) | Completion for Ruby Flipper feature flag names and descriptions |
 
 #### CLI Tools
 
