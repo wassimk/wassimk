@@ -10,11 +10,11 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 
 #### Neovim Plugins
 
-- [ruby-lsp.nvim](https://github.com/wassimk/ruby-lsp.nvim) — Neovim plugin for Ruby LSP client-side commands (code lens run, debug, open file)
 - [gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) — Open GitHub URLs for files, blame, commits, and PRs from any buffer
 - [git-coauthors.nvim](https://github.com/wassimk/git-coauthors.nvim) — Autocomplete Co-Authored-By lines in git commits
 - [scalpel.nvim](https://github.com/wassimk/scalpel.nvim) — Fast find-and-replace in a buffer
 - [qf-formatter.nvim](https://github.com/wassimk/qf-formatter.nvim) — Beautiful quickfix and location list formatting with diagnostic and LSP kind icons
+- [ruby-lsp.nvim](https://github.com/wassimk/ruby-lsp.nvim) — Neovim plugin for Ruby LSP client-side commands (code lens run, debug, open file)
 - [rails-fixture-complete.nvim](https://github.com/wassimk/rails-fixture-complete.nvim) — Completion for Rails fixture types and names with documentation
 - [flipper-complete.nvim](https://github.com/wassimk/flipper-complete.nvim) — Completion for Ruby Flipper feature flag names and descriptions
 
