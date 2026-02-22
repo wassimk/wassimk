@@ -13,6 +13,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 - [gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) — Open GitHub URLs for files, blame, commits, and PRs from any buffer
 - [scalpel.nvim](https://github.com/wassimk/scalpel.nvim) — Fast find-and-replace in a buffer
 - [git-coauthors.nvim](https://github.com/wassimk/git-coauthors.nvim) — Autocomplete Co-Authored-By lines in git commits
+- [qf-formatter.nvim](https://github.com/wassimk/qf-formatter.nvim) — Beautiful quickfix and location list formatting with diagnostic and LSP kind icons
 - [rails-fixture-complete.nvim](https://github.com/wassimk/rails-fixture-complete.nvim) — Completion for Rails fixture types and names with documentation
 - [flipper-complete.nvim](https://github.com/wassimk/flipper-complete.nvim) — Completion for Ruby Flipper feature flag names and descriptions
 
