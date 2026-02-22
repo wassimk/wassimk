@@ -20,6 +20,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 #### CLI Tools
 
 - [gh-compare](https://github.com/wassimk/gh-compare) — `gh` extension to open branch comparison URLs
+- [gh-sync](https://github.com/wassimk/gh-sync) — `gh` extension to sync local branches with their remote
 - [tmignore](https://github.com/wassimk/tmignore) — Exclude directories from Time Machine, Carbon Copy Cloner, and Backblaze backups
 - [granola-exporter](https://github.com/wassimk/granola-exporter) — Export Granola meeting notes and transcripts to markdown
 
