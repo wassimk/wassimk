@@ -24,6 +24,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 - [gh-sync](https://github.com/wassimk/gh-sync) — `gh` extension to sync local branches with their remote
 - [tmignore](https://github.com/wassimk/tmignore) — Exclude directories from Time Machine, Carbon Copy Cloner, and Backblaze backups
 - [granola-exporter](https://github.com/wassimk/granola-exporter) — Export Granola meeting notes and transcripts to markdown
+- [st](https://github.com/wassimk/st) — Set your status across Slack, GitHub, and Asana with a single command
 
 #### Elgato Lighting
 
