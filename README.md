@@ -2,8 +2,6 @@
 
 I love building tools that speed up my workflow and make my desk smarter.
 
-Software engineer at [Planning Center](https://www.planningcenter.com).
-
 ---
 
 Here are a few of my more fun and useful projects. [Browse my repos](https://github.com/wassimk?tab=repositories) for more.
