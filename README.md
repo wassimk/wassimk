@@ -14,7 +14,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 - [qf-formatter.nvim](https://github.com/wassimk/qf-formatter.nvim) — Beautiful quickfix and location list formatting with diagnostic and LSP kind icons
 - [ruby-lsp.nvim](https://github.com/wassimk/ruby-lsp.nvim) — Neovim plugin for Ruby LSP client-side commands (code lens run, debug, open file)
 - [rails-fixture-ls.nvim](https://github.com/wassimk/rails-fixture-ls.nvim) — In-process LSP server for Rails fixture completion, hover, and go-to-definition
-- [flipper-complete.nvim](https://github.com/wassimk/flipper-complete.nvim) — Completion for Ruby Flipper feature flag names and descriptions
+- [flipper-ls.nvim](https://github.com/wassimk/flipper-ls.nvim) — In-process LSP server for Flipper feature flag completion, hover, and go-to-definition
 
 #### CLI Tools
 
