@@ -15,6 +15,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 - [ruby-lsp.nvim](https://github.com/wassimk/ruby-lsp.nvim) — Neovim plugin for Ruby LSP client-side commands (code lens run, debug, open file)
 - [rails-fixture-ls.nvim](https://github.com/wassimk/rails-fixture-ls.nvim) — In-process LSP server for Rails fixture completion, hover, and go-to-definition
 - [flipper-ls.nvim](https://github.com/wassimk/flipper-ls.nvim) — In-process LSP server for Flipper feature flag completion, hover, and go-to-definition
+- [rex-navigator.nvim](https://github.com/wassimk/rex-navigator.nvim) — Move between Neovim splits and Rex panes with ctrl-h/j/k/l
 
 #### CLI Tools
 
