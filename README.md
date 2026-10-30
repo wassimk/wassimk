@@ -22,7 +22,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 - [gh-compare](https://github.com/wassimk/gh-compare) — `gh` extension to open branch comparison URLs
 - [gh-sync](https://github.com/wassimk/gh-sync) — `gh` extension to sync local branches with their remote
 - [tmignore](https://github.com/wassimk/tmignore) — Exclude directories from Time Machine, Carbon Copy Cloner, and Backblaze backups
-- [st](https://github.com/wassimk/st) — Set your status across Slack and GitHub with a single command, also available as a [Raycast extension](https://github.com/wassimk/raycast-st)
+- [st](https://github.com/wassimk/st) — Set your Slack and GitHub status in one command, with a [Raycast extension](https://github.com/wassimk/raycast-st)
 
 #### Elgato Lighting
 
