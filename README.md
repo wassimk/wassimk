@@ -23,6 +23,7 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 - [gh-sync](https://github.com/wassimk/gh-sync) — `gh` extension to sync local branches with their remote
 - [tmignore](https://github.com/wassimk/tmignore) — Exclude directories from Time Machine, Carbon Copy Cloner, and Backblaze backups
 - [st](https://github.com/wassimk/st) — Set your Slack and GitHub status in one command, also available as [raycast-st](https://github.com/wassimk/raycast-st)
+- [zoom-autostatus](https://github.com/wassimk/zoom-autostatus) — Automatically set your Slack status while you're in a Zoom meeting, using `st`
 
 #### Elgato Lighting
 
