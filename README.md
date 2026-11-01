@@ -1,21 +1,10 @@
 ### Hi, I'm Wassim
 
-I love building tools that speed up my workflow and make my desk smarter.
+I like building small tools. Most of them started as a fix for something that bugged me during my workday.
 
 ---
 
 Here are a few of my more fun and useful projects. [Browse my repos](https://github.com/wassimk?tab=repositories) for more.
-
-#### Neovim Plugins
-
-- [gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) — Open GitHub URLs for files, blame, commits, and PRs from any buffer
-- [git-coauthors.nvim](https://github.com/wassimk/git-coauthors.nvim) — Autocomplete Co-Authored-By lines in git commits
-- [scalpel.nvim](https://github.com/wassimk/scalpel.nvim) — Fast find-and-replace in a buffer
-- [qf-formatter.nvim](https://github.com/wassimk/qf-formatter.nvim) — Beautiful quickfix and location list formatting with diagnostic and LSP kind icons
-- [ruby-lsp.nvim](https://github.com/wassimk/ruby-lsp.nvim) — Neovim plugin for Ruby LSP client-side commands (code lens run, debug, open file)
-- [rails-fixture-ls.nvim](https://github.com/wassimk/rails-fixture-ls.nvim) — In-process LSP server for Rails fixture completion, hover, and go-to-definition
-- [flipper-ls.nvim](https://github.com/wassimk/flipper-ls.nvim) — In-process LSP server for Flipper feature flag completion, hover, and go-to-definition
-- [rex-navigator.nvim](https://github.com/wassimk/rex-navigator.nvim) — Move between Neovim splits and Rex panes with ctrl-h/j/k/l
 
 #### CLI Tools
 
@@ -31,7 +20,18 @@ Here are a few of my more fun and useful projects. [Browse my repos](https://git
 - [elgato-autolight](https://github.com/wassimk/elgato-autolight) — Automatically toggle lights when your Mac camera activates
 - [raycast-elgato-light](https://github.com/wassimk/raycast-elgato-light) — Raycast extension for Elgato light control
 
+#### Neovim Plugins
+
+- [ruby-lsp.nvim](https://github.com/wassimk/ruby-lsp.nvim) — Neovim plugin for Ruby LSP client-side commands (code lens run, debug, open file)
+- [rails-fixture-ls.nvim](https://github.com/wassimk/rails-fixture-ls.nvim) — In-process LSP server for Rails fixture completion, hover, and go-to-definition
+- [flipper-ls.nvim](https://github.com/wassimk/flipper-ls.nvim) — In-process LSP server for Flipper feature flag completion, hover, and go-to-definition
+- [gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) — Open GitHub URLs for files, blame, commits, and PRs from any buffer
+- [git-coauthors.nvim](https://github.com/wassimk/git-coauthors.nvim) — Autocomplete Co-Authored-By lines in git commits
+- [scalpel.nvim](https://github.com/wassimk/scalpel.nvim) — Fast find-and-replace in a buffer
+- [qf-formatter.nvim](https://github.com/wassimk/qf-formatter.nvim) — Beautiful quickfix and location list formatting with diagnostic and LSP kind icons
+- [rex-navigator.nvim](https://github.com/wassimk/rex-navigator.nvim) — Move between Neovim splits and Rex panes with ctrl-h/j/k/l
+
 #### Other
 
+- [dotfiles](https://github.com/wassimk/dotfiles) — My shell, editor, and terminal setup
 - [gaming-library](https://github.com/wassimk/gaming-library) — Sync your Steam library to a Notion database
-- [claudegotchi](https://github.com/wassimk/claudegotchi) — Tamagotchi-style Claude bot on an M5Stack Core2 IoT device
